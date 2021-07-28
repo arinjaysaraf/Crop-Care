@@ -47,7 +47,7 @@ footer .content .top {
     font-size: 30px;
 }
 
-/* .content .top .media-icons {
+.content .top .media-icons {
     display: flex;
 }
 
@@ -107,7 +107,7 @@ footer .content .top {
 .top .media-icons a:nth-child(5):hover {
     color: #FF0000;
     background: #fff;
-} */
+}
 
 footer .content .link-boxes {
     width: 100%;
