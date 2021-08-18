@@ -1,4 +1,5 @@
 @import url(footer_style.css);
+@import url(mapindia.css);
 
 * {
     box-sizing: border-box;
@@ -42,7 +43,6 @@
     text-decoration: none;
     font-size: 18px;
     padding: 10px;
-    font-weight: bold;
     border-radius: 6px;
     margin: 5px;
 }
